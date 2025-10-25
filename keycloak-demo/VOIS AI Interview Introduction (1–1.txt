@@ -1,0 +1,8 @@
+VOIS AI Interview Introduction (1–1.5 minutes)
+
+am Youssef Mansour, a Computer Engineering student at the Arab Academy for Science and Technology.
+
+ passionate about cloud technologies, automation, and DevOps practices ,  they can make software delivery faster and more reliable. along side my studies , I’ve earned professional certificates from AWS and IBM, I learned to automate cloud infrastructure using CI/CD pipelines, and container tools like Docker and Kubernetes.
+
+Beyond certifications, I’ve also built practical projects — including a turn-based football game in Python using OpenGL, and an operating systems project in xv6, where i developed my problem-solving, system optimization, and teamwork skills 
+

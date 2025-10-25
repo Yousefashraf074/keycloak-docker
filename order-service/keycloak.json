@@ -1,0 +1,11 @@
+{
+  "realm": "twoshots",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "none",
+  "resource": "order-service",
+  "credentials": {
+    "secret": "5DGpMyGABbJy9Q2S3Rj1gefdpsstPpf1"
+  },
+  "confidential-port": 0,
+  "verify-token-audience": true
+}
