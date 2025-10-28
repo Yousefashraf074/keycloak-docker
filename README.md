@@ -47,7 +47,4 @@ The infrastructure is containerized using **Docker Compose** and includes:
 git clone https://github.com/Yousefashraf074/keycloak-docker.git
 cd keycloak-docker
 
-👨‍💻 Author
-Yousef Ashraf
-Engineering Student – DevOps & Cloud Enthusiast
-GitHub: @Yousefashraf074
+
