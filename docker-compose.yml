@@ -15,4 +15,4 @@ services:
     restart: unless-stopped
 
 volumes:
-  keycloak_data:
+  - keycloak_data:/opt/keycloak/data
